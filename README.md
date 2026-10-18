@@ -437,6 +437,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://anclum.com/favicon.svg" alt="SkillTide Logo" /> [SkillTide](https://github.com/wdfdaivd/skilltide-mcp) - Bilingual (EN/ZH) MCP server that searches 7,700+ MCP servers, agent skills and 1,500 AI tools. Read-only, hosted, ~40 ms. Every AI-tool link is a verified official URL with no redirect or tracking params, and results carry provenance plus Chinese-usability labels.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
